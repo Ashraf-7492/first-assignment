@@ -1,5 +1,6 @@
 body{
     margin: 0%;
+    font-family: 'Roboto', sans-serif;
 }
 .topright{
     padding: 10px 20px;}
@@ -80,9 +81,11 @@ margin: 5%;
 }
 .icon{
    margin: 0% 43.5%;}
-  }
-
-
+   #footer{
+    text-align: center;
+    height: 100px;
+    margin-top: 10%;
+}
 
 
     
