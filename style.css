@@ -1,0 +1,46 @@
+body{
+    margin: 0%;
+}
+.topright{
+    padding: 10px 20px;}
+    .menu{
+        margin-left: 60%;
+        margin-top: 1%;
+    }
+
+#name{color: tomato;}
+.hire-button{
+    text-decoration: none ;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    font-size: 15pt;
+    padding: 10px 15px;
+    border-radius: 5px}
+.Hello{
+    width: 40%;
+    font-size: 20pt;
+    float: left;
+margin: 5%;
+}
+
+ 
+ .button-cv{
+     text-decoration: none;
+     background-image: linear-gradient(45deg, lightsalmon, tomato);
+     padding: 10px 15px;
+     border-radius: 5px;
+
+ }
+ #latest1{
+     color: tomato;
+ }
+#latest{
+    text-align: center;
+    font-size: 35pt;}
+    .working-p{
+        width: 27%;
+        float: left;
+        margin: 2%;
+padding: 1%;
+box-shadow:3px 4px 10px gray;
+    }
+
